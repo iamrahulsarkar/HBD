@@ -302,5 +302,6 @@ body {
   .nine p {
     font-size: 1.5rem;
     font-weight: lighter;
+    top: 100px;
   }
 }
