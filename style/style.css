@@ -87,7 +87,7 @@ body {
 }
 
 .so {
-  background: linear-gradient(to right, rgb(232, 5, 81) 0%, rgb(255, 18, 176) 100%);
+  background: linear-gradient(to right, rgb(255, 59, 124) 0%, rgb(255, 18, 176) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -233,6 +233,8 @@ body {
   font-size: 2rem;
   font-weight: lighter;
   background: #fff;
+  position: relative;
+  top: 10px;
 }
 
 #replay {
