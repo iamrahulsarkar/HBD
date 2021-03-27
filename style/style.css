@@ -232,6 +232,7 @@ body {
 .nine p {
   font-size: 2rem;
   font-weight: lighter;
+  background: #fff;
 }
 
 #replay {
